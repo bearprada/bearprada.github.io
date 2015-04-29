@@ -2,6 +2,8 @@
 layout: post
 title: Installation of MongoDB
 date: 2013-01-18 15:27:31
+share: y
+disqus: y
 ---
 
 Introduction

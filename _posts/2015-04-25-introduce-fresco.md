@@ -2,6 +2,8 @@
 layout: post
 title: Fresco - an image management library
 date: 2015-04-25 15:27:31
+share: y
+disqus: y
 ---
 
 ![fresco](http://facebook.github.io/fresco/static/fresco-og-image.png)

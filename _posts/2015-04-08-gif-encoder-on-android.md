@@ -2,6 +2,8 @@
 layout: post
 title: GIF Encoder on Android
 date: 2015-04-08 15:27:31
+share: y
+disqus: y
 ---
 
 ![GIFCAM for messenger](http://4.bp.blogspot.com/Zd5i6n5rFo1cPPsZO6H87M3JL-WlE2QZ-VRINKSTFaV-f6yCGgZCdkivPF5Hsdm5MF4=w300)

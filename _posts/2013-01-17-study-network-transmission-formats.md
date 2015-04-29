@@ -2,6 +2,8 @@
 layout: post
 title: Study Network Transmission Formats
 date: 2013-01-17 15:27:31
+share: y
+disqus: y
 ---
 
 Introduction
